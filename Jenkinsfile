@@ -1,3 +1,4 @@
+//[poiuytre
 pipeline{
  environment {
         dockerUserName="skandavel"
